@@ -1,5 +1,5 @@
 ### Hi there 👋, this is Yathaarth. I am currently a CS undergraduate who loves building projects which can contribute to the society.
-### I am a ML enthusiast who is very excited to see the world change through AI
+### I am a ML enthusiast who is very excited to see the world change through AI.
 
 
 
