@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React JS, Express and Node JS.
 - 🤔 I’m looking for help with finding the Open source Projects.
 - 💬 Ask me about Mind facts!!
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/yathaarth-batra-225042175/)
+- 📫 How to reach me:[www.linkedin.com/in/yathaarthbatra](https://www.linkedin.com/in/yathaarthbatra)
 
 ### Thanks for visiting😃
 
