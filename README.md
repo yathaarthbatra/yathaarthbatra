@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, this is Yathaarth. I am currently a CS undergraduate who loves building projects which can contribute to the society.
+### I am a ML enthusiast who is very excited to see the world change through AI
 
-<!--
-**yathaarthbatra/yathaarthbatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on a Netflix Clone website.
+- 🌱 I’m currently learning React JS, Express and Node JS.
+- 🤔 I’m looking for help with finding the Open source Projects.
+- 💬 Ask me about Mind facts!!
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/yathaarth-batra-225042175/)
+
+### Thanks for visiting😃
+
+
