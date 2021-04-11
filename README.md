@@ -1,5 +1,5 @@
-### Hi 👋, this is Yathaarth. I am currently a CS undergraduate who loves building projects which can contribute to the society.
-### I have huge interest in backend development and have developed backends for various websites. 
+### Hi 👋, this is Yathaarth ,a developer who is in love with building projects and participating in Hackathons.
+### I mainly develop on Android apps 
 ### I love doing what i do!!
 
 
@@ -11,6 +11,9 @@
 - 💬 Ask me about Mind facts!!
 - 📫 How to reach me: [www.linkedin.com/in/yathaarthbatra](https://www.linkedin.com/in/yathaarthbatra)
 - 💻 Do check out my Projects and star them if you liked😁.
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 ### Thanks for visiting😃
 
