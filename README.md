@@ -3,7 +3,7 @@
 
 
 More Info about me:⏭
-- 🔭 I’m currently working on a Todo App.
+- 🔭 I’m currently working on a Quiz App.
 - 🤔 I’m looking for help with some 💲💲money💲💲 to buy a 🖥Desktop.
 - 💬 Ask me about 🗣Stammering!!
 
